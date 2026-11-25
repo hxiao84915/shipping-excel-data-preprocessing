@@ -2,6 +2,8 @@
 
 > **專為航運行政、海運承攬（Freight Forwarder）、船務助理與報關人員量身打造的 Excel 資料前處理實戰教學教材**
 
+🌐 **線上公開簡報網站 (GitHub Pages)**：[https://hxiao84915.github.io/shipping-excel-data-preprocessing/](https://hxiao84915.github.io/shipping-excel-data-preprocessing/)
+
 本專案提供一套完整且高規格的電腦操作教學文件、互動簡報、示範資料與練習題庫，深入探討資料分析核心觀念——**「資料前處理」(Data Preprocessing)**，徹底破除航運數據常見的「髒資料」（Dirty Data）陷阱，協助行政人員建立高可用性的數據資產。
 
 ---
